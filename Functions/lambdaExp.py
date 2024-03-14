@@ -1,0 +1,1 @@
+lambda var: var *3
